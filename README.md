@@ -19,16 +19,19 @@ Examined numerical features (e.g., purchase amounts) for trends and patterns.
 ## Data Visualization:
 
 Created insightful visualizations to uncover relationships between features and sales behavior.
+
 Used visual analysis to guide feature engineering and hypothesis generation.
 
 ## Preprocessing for Machine Learning:
 
 Data Splitting: Divided the data into training and test sets.
+
 Standardization: Applied feature scaling to ensure consistent input for the model.
 
 ## Model Development:
 
 Random Forest Regressor: Trained a robust ensemble model to predict sales values.
+
 Hyperparameter Tuning: Optimized model performance using GridSearchCV for parameter tuning.
 
 ## Evaluation:
