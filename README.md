@@ -1,4 +1,4 @@
-# Black-Friday-Data-Analysis
+# Consumer-Behavior-Analytics-Revenue-Prediction
 
 ## Project Overview
 
